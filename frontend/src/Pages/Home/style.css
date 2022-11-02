@@ -1,0 +1,25 @@
+.img {
+    width:250px ;
+}
+.country{
+    font-size:2rem ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 250;
+    color: #ffff;
+    margin-top: 1rem;
+}
+.region{
+    font-size:2rem ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 250;
+    color: #ffff;
+    margin-top: 1rem;
+}
+
+.card{
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    padding: 1.5rem;
+    justify-content: space-between;
+    border: 0.25rem solid #fff;
+}
